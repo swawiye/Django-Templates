@@ -42,3 +42,6 @@ Start the server
   python manage.py runserver
 ```
 
+
+## Appendix
+The "base.html" contains the content that renders on every page.
